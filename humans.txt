@@ -2,8 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+	Michal Banasiuk	michal.banasiuk@breakplan.com	
 
 # THANKS
 
