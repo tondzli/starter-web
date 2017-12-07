@@ -10,7 +10,11 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
+As stated above, the main purpose is to provide something.
+
 ## Deployment
+
 Sample website with plenty of files for demos
+Added something new to this section.
 
 ## How to contribute
